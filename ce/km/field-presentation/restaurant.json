@@ -601,15 +601,6 @@
           "localeCode": "fr",
           "value": "Assistant Knowledge"
         }
-      ],
-      "entryType": "SECTION",
-      "fields": [
-        {
-          "id": "primaryConversationContact"
-        },
-        {
-          "id": "reviewResponseConversationEnabled"
-        }
       ]
     }
   ]
