@@ -621,16 +621,6 @@
           "id": "yelpWebsiteOverride"
         }
       ]
-    },
-    {
-      "displayName": "Settings",
-      "displayNameTranslations": [
-        {
-          "localeCode": "fr",
-          "value": "Paramètres"
-        }
-      ],
-      "entryType": "DIVIDER"
     }
   ]
 }
